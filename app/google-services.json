@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "554938300363",
+    "firebase_url": "https://wonder-wedding.firebaseio.com",
+    "project_id": "wonder-wedding",
+    "storage_bucket": "wonder-wedding.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554938300363:android:fbbc423280cd4c888b684e",
+        "android_client_info": {
+          "package_name": "com.afrisoft.wonderwedding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554938300363-rg580fv0qqe9kr3cia49gqv34cpntnu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvH025IPUQQg1XQfcaB7kCFUHdrlOs0-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554938300363-rg580fv0qqe9kr3cia49gqv34cpntnu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
