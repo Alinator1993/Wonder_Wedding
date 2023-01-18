@@ -18,4 +18,5 @@
     <string name="addPhoto">Add Photo</string>
     <string name="homeBackground">Home Background</string>
     <string name="first_name_edit_text">Enter a Name</string>
+    <string name="save">Save</string>
 </resources>

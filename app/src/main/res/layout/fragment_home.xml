@@ -14,6 +14,5 @@
         android:scaleType="centerCrop"
         android:contentDescription="@string/homeBackground"
         app:srcCompat="@drawable/wwbackground"
-        android:padding="10dp"
         />
 </LinearLayout>
