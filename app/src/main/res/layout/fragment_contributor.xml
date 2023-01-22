@@ -10,7 +10,7 @@
 
     <EditText
         android:id="@+id/editTextName"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPersonName"
@@ -20,13 +20,14 @@
     <RatingBar
         android:id="@+id/ratingBar"
         android:layout_width="wrap_content"
+        android:contentDescription="@string/rate_the_app"
         android:max="5"
         android:stepSize="1"
         android:layout_height="wrap_content" />
 
     <Button
         android:id="@+id/buttonSave"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/save" />
 </LinearLayout>

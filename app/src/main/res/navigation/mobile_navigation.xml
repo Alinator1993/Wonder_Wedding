@@ -34,4 +34,10 @@
         android:name="com.afrisoft.wonderwedding.ui.contributor.ContributorFragment"
         android:label="@string/menu_contributors"
         tools:layout="@layout/fragment_contributor" />
+
+    <fragment
+        android:id="@+id/nav_logout"
+        android:name="com.afrisoft.wonderwedding.fragments.LogoutFragment"
+        android:label="@string/logout"
+        tools:layout="@layout/fragment_logout"/>
 </navigation>
